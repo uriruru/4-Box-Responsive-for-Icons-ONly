@@ -1,0 +1,28 @@
+        <div class="container" style="max-width: 800px; margin-top: 30px;">
+          <div class="columns is-multiline is-mobile" style="text-align: left;">
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" id="boxxx" style="font-size: clamp(16px, 2.5vw, 23px); font-weight: bold; background-color: white;">
+                <span style="background: linear-gradient(to right, #1364b6, #3de8f4);-webkit-background-clip: text; -webkit-text-fill-color: transparent;">10 projects</span>
+                <p style="font-size: 12px;">Personal Projects</p>
+              </div>
+            </div>
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" id="boxxx" style="font-size: clamp(16px, 2.5vw, 23px); font-weight: bold; background-color: white;">
+                <span style="background: linear-gradient(to right, #1364b6, #3de8f4);-webkit-background-clip: text; -webkit-text-fill-color: transparent;">5 YearsExp</span>
+                <p style="font-size: 12px;">Comprog / Coding</p>
+              </div>
+            </div>
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" id="boxxx" style="font-size: clamp(16px, 2.5vw, 23px); font-weight: bold; background-color: white;">
+                <span style="background: linear-gradient(to right, #1364b6, #3de8f4);-webkit-background-clip: text; -webkit-text-fill-color: transparent;">1,09k Subs</span>
+                <p style="font-size: 12px;">Youtube Followers</p>
+              </div>
+            </div>
+            <div class="column is-half-mobile is-one-quarter-desktop" style="padding: 3px;">
+              <div class="box" id="boxxx" style="font-size: clamp(16px, 2.5vw, 23px); font-weight: bold; background-color: white;">
+                <span style="background: linear-gradient(to right, #1364b6, #3de8f4);-webkit-background-clip: text; -webkit-text-fill-color: transparent;">39K Views</span>
+                <p style="font-size: 12px;">Youtube Audience</p>
+              </div>
+            </div>
+          </div>
+        </div>
